@@ -1,0 +1,177 @@
+{
+  "main": {
+    "name":"Will Homan",
+    "occupation":"Web developer actively seeking full-time opportunities.",
+    "description":"I design and program websites and web applications of all types.",
+    "image":"profilepic.jpg",
+    "bio":"I am recently graduated from the Coding Dojo in Bellevue and am actively seeking new developer opportunities in the greater Seattle area. I have 9 years previous experience in IT support. I have a passion for all things tech and when not coding you'll find me enjoying life with my wife and two young daughters.",
+    "email": "will.homan@hotmail.com",
+    "phone": "425-442-6947",
+    "address":{
+      "street":"1158 Maloney Grove Ave SE",
+      "city":"Bellevue",
+      "state":"WA",
+      "zip": "98045"
+    },
+    "website": "https://willtepes.github.io/resume-viewer",
+    "resumedownload":"https://willtepes.github.io/resume-viewer/Homan Resume 2017.docx",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"http://linkedin.com/in/willhoman",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/willtepes",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Coding Dojo",
+        "degree":"Web Development Course Certificate",
+        "graduated":"January 2017",
+        "description":"Completed an intensive web development program with more than 1000 hours spent learning and building 50+ single and multi-page web apps using Python, JavaScript, and C#."
+      },
+      {
+        "school":"University of Washington",
+        "degree":"Bachelor of Arts",
+        "graduated":"December 2001",
+        "description":"BA in Political Science"
+      }
+    ],
+    "work":[
+      {
+        "company":"Teal Group Technologies, Inc",
+        "title":"IT Support Engineer",
+        "years":"September 2014 - July 2016",
+        "description":"Configured and managed AD, Exchange, backups, network, AV, IT documentation, and all other aspects of IT infrastructure for clients. Left to persue programming career."
+      },
+      {
+        "company":"Unysis",
+        "title":"Executive Support Technician",
+        "years":"August 2013 - September 2014",
+        "description":"Provided comprehensive technical support to Microsoft corporate vice presidents, executive vice presidents, the Board of Directors and their admins as a member of the Executive Support Team."
+      },
+      {
+        "company":"Unysis",
+        "title":"Techlink Lead Technician",
+        "years":"July 2012 - September 2014",
+        "description":"Managed team of eight people at walk-in IT support site (Techlink) on Microsoft main campus serving 400-1000 customers weekly. Was responsible for initial training of new Techlink hires. Provided tier 2 troubleshooting and technical support as member of Deskside Senior Support Group."
+      },
+      {
+        "company":"Unysis",
+        "title":"Techlink Technician",
+        "years":"June 2010 - June 2012",
+        "description":"Provided IT support for Microsoft employees and vendors as a walk-up service in a retail-like environment where customer service was the highest priority."
+      },
+      {
+        "company":"Siemens",
+        "title":"IT support Specialist",
+        "years":"Dec 2007 - May 2010",
+        "description":"Provided desk side technical support to all Microsoft and vendor end users in coverage area."
+      },
+      {
+        "company":"US Army Reserve",
+        "title":"Transportation Management Coordinator",
+        "years":"May 1998 - May 2006",
+        "description":"Transportation NCO assigned to the 949th Movement Control Team. Deployed to Iraq January 2005 to December 2005."
+      }
+    ],
+    "skills":[
+      {
+        "name":"JavaScript",
+        "level":"70%"
+      },
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"C#",
+        "level":"65%"
+      },
+      {
+        "name":"CSS",
+        "level":"60%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"React",
+        "level":"15%"
+      },
+      {
+        "name":"jQuery",
+        "level":"50%"
+      },
+      {
+        "name":"Express.js",
+        "level":"65%"
+      },
+      {
+        "name":"Node.js",
+        "level":"60%"
+      },
+      {
+        "name":"AngularJS",
+        "level":"65%"
+      },
+      {
+        "name":"ASP.NET Core",
+        "level":"65%"
+      },
+      {
+        "name":"Entity Framework Core",
+        "level":"55%"
+      },
+      {
+        "name":"Django",
+        "level":"65%"
+      },
+      {
+        "name":"NancyFX",
+        "level":"40%"
+      },
+      {
+        "name":"Flask",
+        "level":"60%"
+      },
+      {
+        "name":"MySQL",
+        "level":"60%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"55%"
+      },
+      {
+        "name":"GitHub",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Choose a job you love, and you will never have to work a day in your life.",
+        "user":"Confucius"
+      },
+      {
+        "text":"It is never too late to be what you might have been.",
+        "user":"George Eliot: English novelist"
+      },
+      {
+        "text":"What is the recipe for successful achievement? To my mind there are just four essential ingredients: Choose a career you love, give it the best there is in you, seize your opportunities, and be a member of the team.",
+        "user":"Benjamin F. Fairless"
+      }
+    ]
+  }
+}
